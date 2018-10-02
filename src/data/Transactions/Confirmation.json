@@ -1,0 +1,16 @@
+[
+    {
+        "transactionId":"11004",
+        "vehicleId":"2000103",
+        "transactionType":"Confirmation",
+        "applicationDate":"2011-12-14",
+        "applicationStatus":"Confirmed"
+    },
+    {
+        "transactionId":"12000",
+        "vehicleId":"2000103",
+        "transactionType":"Confirmation",
+        "applicationDate":"2012-03-14",
+        "applicationStatus":"In progress"
+    }
+]

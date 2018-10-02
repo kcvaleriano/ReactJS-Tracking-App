@@ -1,0 +1,32 @@
+[
+    {
+        "transactionType":"Confirmation",
+        "status":[
+            "Pending",
+            "Confirmed",
+            "Rejected"
+        ]
+    },
+    {
+        "transactionType":"Extension of Validity",
+        "status":[
+            "Requirement Incomplete",
+            "Waiting for Approval",
+            "For Hearing",
+            "For Release",
+            "Released",
+            "Rejected",
+            "Cancelled"
+        ]
+    },
+    {
+        "transactionType":"Application of Special Permit",
+        "status":[
+            "Requirement Incomplete",
+            "Waiting for Approval",
+            "Approved",
+            "Rejected",
+            "Cancelled"
+        ]
+    }
+]

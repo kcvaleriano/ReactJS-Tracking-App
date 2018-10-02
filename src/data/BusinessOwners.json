@@ -1,0 +1,28 @@
+[
+    {
+        "operatorId":"10001",
+        "firstName":"Chris",
+        "lastName":"Tian",
+        "address": "100 Century Street Intramuros Manila City 2000",
+        "caseId":"2018-0001",
+        "businessName":"sUber Corporation",
+        "contactNumber":"(02) 1234-5678"
+    },{
+        "operatorId":"10001",
+        "firstName":"Chris",
+        "lastName":"Tian",
+        "address": "100 Century Street Intramuros Manila City 2000",
+        "caseId":"2011-1111",
+        "businessName":"Car for Grab",
+        "contactNumber":"09171234567"  
+    },
+    {
+        "operatorId":"10002",
+        "firstName":"John",
+        "lastName":"Smith",
+        "address": "12 Balingbing Street Araneta Quezon City 1020",
+        "caseId":"2014-2001",
+        "businessName":"Sakay na mga Kababayan",
+        "contactNumber":"(02) 1111-4444"
+    }
+]

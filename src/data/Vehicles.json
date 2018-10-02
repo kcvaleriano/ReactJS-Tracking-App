@@ -1,0 +1,68 @@
+[
+    {
+        "vehicleId":"2000100",
+        "businessCaseId":"2014-2001",
+        "registrationNumber":"R123456789",
+        "model":"Toyota Vios 1.3G",
+        "makeYear":"2010",
+        "plateNumber":"CAB123",
+        "serialNumber":"S555555511",
+        "engineNumber":"E445222535",
+        "chassisNumber":"C4554545477"
+    },
+    {
+        "vehicleId":"2000101",
+        "businessCaseId":"2014-2001",
+        "registrationNumber":"R123456789",
+        "model":"Toyota Hi-Ace 2.4L",
+        "makeYear":"2012",
+        "plateNumber":"UVX456",
+        "serialNumber":"S555555512",
+        "engineNumber":"E445222536",
+        "chassisNumber":"C4554545478"
+    },
+    {
+        "vehicleId":"2000103",
+        "businessCaseId":"2014-2001",
+        "registrationNumber":"R123456789",
+        "model":"Kia Rio S",
+        "makeYear":"2015",
+        "plateNumber":"KIA001",
+        "serialNumber":"S555555513",
+        "engineNumber":"E445222537",
+        "chassisNumber":"C4554545479"
+    },
+    {
+        "vehicleId":"2000104",
+        "businessCaseId":"2018-0001",
+        "registrationNumber":"R123456789",
+        "model":"Kia Rio S",
+        "makeYear":"2015",
+        "plateNumber":"KIA001",
+        "serialNumber":"S555555513",
+        "engineNumber":"E445222537",
+        "chassisNumber":"C4554545479"
+    },
+    {
+        "vehicleId":"2000105",
+        "businessCaseId":"2018-0001",
+        "registrationNumber":"R123456789",
+        "model":"Kia Rio S",
+        "makeYear":"2015",
+        "plateNumber":"KIA001",
+        "serialNumber":"S555555513",
+        "engineNumber":"E445222537",
+        "chassisNumber":"C4554545479"
+    },
+    {
+        "vehicleId":"2000106",
+        "businessCaseId":"2011-1111",
+        "registrationNumber":"R123456789",
+        "model":"Kia Rio S",
+        "makeYear":"2015",
+        "plateNumber":"KIA001",
+        "serialNumber":"S555555513",
+        "engineNumber":"E445222537",
+        "chassisNumber":"C4554545479"
+    }
+]
